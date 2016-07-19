@@ -1,0 +1,1 @@
+# maven-semver-discovery-plugin
